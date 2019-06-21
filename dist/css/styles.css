@@ -1,0 +1,14 @@
+.first {
+  color: #f2f1ee;
+  background-color: #000000;
+  text-align: center; }
+
+.main {
+  font-size: 20px; }
+
+.hello {
+  color: #0675cb; }
+  .hello__insert {
+    color: #404040; }
+  .hello__not {
+    color: #f6b213; }

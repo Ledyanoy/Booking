@@ -1,0 +1,19 @@
+.first {
+    color: $slider-btn-color;
+    background-color: $black-color;
+    text-align: center;
+}
+
+.main {
+    font-size: 20px;
+}
+.hello{
+    color: $search-btn;
+    &__insert {
+        color:$slider-btn-tab-color;
+    }
+    &__not {
+        color: $mm-color;
+    }
+}
+
